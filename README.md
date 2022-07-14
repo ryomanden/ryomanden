@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+<h3>Hi there 👋</h3>
+<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="50px">
+</div>
 
 <!--
 **ryomanden/ryomanden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
